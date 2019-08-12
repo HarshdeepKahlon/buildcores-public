@@ -1,6 +1,6 @@
 # BuildCores
 
-BuildCores captures the essence of the desktop PC's flexibility through mix and matching endless combinations of PC components. It is designed for enthusiasts, scientists, professionals, or just anyone interested in the art of PC building. A
+BuildCores captures the essence of the desktop PC's flexibility through mix and matching endless combinations of PC components. It is designed for enthusiasts, scientists, professionals, or just anyone interested in the art of PC building.
 
 
 ## Download
@@ -16,6 +16,7 @@ View the current roadmap of planned features for iOS and Android here.
 ## Privacy
 
 By using the app, you agree to our privacy policy.
+
 ## Support
 
 If you have any issues or requests, please let me know by submitting an issue!
