@@ -11,7 +11,7 @@ BuildCores captures the essence of the desktop PC's flexibility through mix and 
 ## Download
 
 <p align="center">
-    <a href="https://apps.apple.com/us/app/buildcores-mobile-pc-building/id1441971434" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Download_on_the_App_Store_Badge.svg/1280px-Download_on_the_App_Store_Badge.svg.png" alt="Download on the App Store" width=200/></a>
+    <a href="https://apps.apple.com/us/app/buildcores-mobile-pc-building/id1441971434" target="_blank"><img src="https://www.goshen.edu/wp-content/uploads/sites/7/2015/02/app-store-badge.png" alt="Download on the App Store" width=200/></a>
       <a href="https://play.google.com/store/apps/details?id=com.buildcores.buildcores_flutter" target="_blank"><img src="https://www.designpieces.com/wp-content/uploads/2016/02/google-play-badge.png" alt="Download on Google Play" width=200/></a>
 </p>
 
