@@ -1,6 +1,6 @@
 # BuildCores
 
-BuildCores captures the essence of the desktop PC's flexibility through mix and matching endless combinations of PC components. It is designed for enthusiasts, scientists, professionals, or just anyone interested in the art of PC building.
+BuildCores captures the essence of the desktop PC's flexibility through mix and matching endless combinations of PC components. It is designed for enthusiasts, scientists, professionals, or just anyone interested in the art of PC building. As of now, BuildCores is not open source, but it may potentially be in the future.
 
 <p align="center">
   <img src="images/pic1.png" alt="Screenshot 1" height=490/>
