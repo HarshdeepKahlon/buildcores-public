@@ -2,11 +2,20 @@
 
 BuildCores captures the essence of the desktop PC's flexibility through mix and matching endless combinations of PC components. It is designed for enthusiasts, scientists, professionals, or just anyone interested in the art of PC building. As of now, BuildCores is not open source, but it may potentially be in the future.
 
+
 <p align="center">
   <img src="images/pic1.png" alt="Screenshot 1" height=490/>
   <img src="images/pic2.png" alt="Screenshot 2" height=500/>
   <img src="images/pic3.png" alt="Screenshot 3" height=495/>
 </p>
+
+## Technologies Used
+### iOS and iPadOS
+- Built with native UIKit
+- Languages: Mostly Swift with some Objective-C
+### Android
+- Built with Flutter from Google
+- Languages: Mainly Dart with minor Java/Swift snippets
 
 ## Download
 
