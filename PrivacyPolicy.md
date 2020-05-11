@@ -95,5 +95,5 @@ You are advised to review this Privacy Policy periodically for any changes. Chan
 Contact Us
 If you have any questions about this Privacy Policy, please contact us:
 
-By email: harshdeepkahlon00@gmail.com
+By email: harshdeep@buildcores.com
 By phone number: 5702902922
