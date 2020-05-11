@@ -34,7 +34,7 @@ If you have any issues or requests, please let me know by submitting an issue!
 
 [Create a new issue](https://github.com/HarshdeepKahlon/BuildCores-Public/issues), and I'll try to quickly respond!
 
-You can also email me at harshdeepkahlon00@gmail.com
+You can also email me at harshdeep@buildcores.com.
 
 ## Thank You
 
