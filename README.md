@@ -4,18 +4,19 @@ BuildCores captures the essence of the desktop PC's flexibility through mix and 
 
 
 <p align="center">
-  <img src="images/pic1.png" alt="Screenshot 1" height=490/>
-  <img src="images/pic2.png" alt="Screenshot 2" height=500/>
-  <img src="images/pic3.png" alt="Screenshot 3" height=495/>
+  <img src="images/iphone2022.3.1.png" alt="Screenshot 1" height=500/>
+  <img src="images/iphone2022.3.2.png" alt="Screenshot 2" height=500/>
+  <img src="images/iphone2022.3.3.png" alt="Screenshot 3" height=500/>
+  <img src="images/iphone2022.3.4.png" alt="Screenshot 3" height=500/>
 </p>
 
 ## Technologies Used
 ### iOS and iPadOS
-- Built with native UIKit
-- Languages: Mostly Swift with some Objective-C
+- Built with native UIKit and SwiftUI
+- Languages: Swift, Objective-C
 ### Android
 - Built with Flutter from Google
-- Languages: Mainly Dart with minor Java/Swift snippets
+- Languages: Dart
 
 ## Download
 
